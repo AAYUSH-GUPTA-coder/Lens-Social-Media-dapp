@@ -1,46 +1,17 @@
-# Lens API Starter for 30 Days of Web3
+# Lens Social Media Dapp
 
-Dive into the tutorial here: https://www.30daysofweb3.xyz/en/curriculum/9-wrapping-up/0-intro-to-lens
+The Lens Protocol is a decentralized social graph that allows developers to build social media platforms and profiles.
+A social graph is a collection of nodes that represent individual users, organizations, and any connections between those nodes. You can think of it as your friend lists on social media sites, your connections on LinkedIn, and who you're following on Twitter just to list a few examples.
 
-## Getting Started
+### Lensbook (My Dapp)
+Lensbook is a decentralized social media dapp like facebook. Where we can view different profile, view their post and follow them
 
-First, fork and clone this starter repo. You can find similar instructions on forking and cloning a repo here: https://www.30daysofweb3.xyz/en/curriculum/3-writing-your-smart-contract/1-dev-setup
+![lens1](https://user-images.githubusercontent.com/60979345/188096376-e3aaf81d-dead-436f-8ace-1e5733af30ce.png)
 
-After you've cloned the repo, open this project in your IDE and then install all dependencies by running this command in your terminal:
+By clicking on any profile on Home/Index page, we can also view their Profile along with their Post,comments and other information.
 
-```bash
-npm install
-# or
-yarn install
-```
+![lens 2](https://user-images.githubusercontent.com/60979345/188096808-ed9b52cb-3308-4a6b-a766-cfb6cf66ed4b.png)
 
-Then run the development server:
+We can also follow the profile by using connecting our wallet and click on 'Connect' Button.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![lens](https://user-images.githubusercontent.com/60979345/188096950-7f2a4f82-593b-4234-b5d0-e2b2d66598b7.png)
